@@ -1,7 +1,0 @@
-add_subdirectory( witness )
-add_subdirectory( account_history )
-add_subdirectory( delayed_node )
-add_subdirectory( debug_witness )
-add_subdirectory( data_transaction )
-add_subdirectory( snapshot )
-add_subdirectory( query_txid )
