@@ -6,4 +6,5 @@
 ![images](https://github.com/linqd1/Dahanghai/blob/master/images/3.jpeg)
 借助于公信区块链技术，在客户端，服务端和风控体系及数字钱包支付方面性能卓越；符合区块链的加密安全，不可篡改，去中心化和一致共识等特性
 ![images](https://github.com/linqd1/Dahanghai/blob/master/images/1.png)
-
+通过整合金融支付应用环节，商家和客户可以自由根据需求交换阿希币XAS,这在金融支付方面有力的保障了刚性需求落地，从而形成一个真正的金融一体化商业完整闭环。
+![images](https://github.com/linqd1/Dahanghai/blob/master/images/4.png)
